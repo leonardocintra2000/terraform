@@ -39,7 +39,3 @@ resource "azurerm_kubernetes_cluster" "default" {
     client_secret = "Rst8Q~hkI2~g~CH5TnVyCkmOIAMKtKyoJFrwVdos"
   }
 }
-
-resource "azurerm_" "name" {
-  
-}
